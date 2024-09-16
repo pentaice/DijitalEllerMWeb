@@ -57,3 +57,15 @@ $(document).ready(function() {
 		nav.toggleClass('open');
 	});
 });
+
+ScrollReveal().reveal('.scrollReveal1',{delay:200});
+ScrollReveal().reveal('.scrollReveal2',{delay:400});
+
+ScrollReveal().reveal('.scrollReveal3',{delay:500});
+ScrollReveal().reveal('.scrollReveal4',{delay:600});
+ScrollReveal().reveal('.scrollReveal5',{delay:700});
+ScrollReveal().reveal('.scrollReveal6',{delay:800});
+ScrollReveal().reveal('.scrollReveal7',{delay:900});
+ScrollReveal().reveal('.scrollReveal8',{delay:1000});
+
+
