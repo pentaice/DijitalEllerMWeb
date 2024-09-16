@@ -176,7 +176,11 @@ width:65%;
 }
 
 @media(max-width:1000px){
-    .banner-btn{
+    .banner-btnn{
     margin-bottom: 60px;
     }
+}
+
+.iconONE{
+    width: 60px;
 }
