@@ -174,3 +174,9 @@ width:65%;
     left: -195px;
     }
 }
+
+@media(max-width:1000px){
+    .banner-btn{
+    margin-bottom: 60px;
+    }
+}
