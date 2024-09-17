@@ -388,9 +388,6 @@ ul li {
 	text-align:right;
 	padding-right:5%;
 }
-.middle {
-	padding-left:3.5%;
-}
 .right {
 	padding-left:5%;
 }
@@ -620,6 +617,7 @@ ul li {
 	border-radius: 2px;
 	display: inline-block;
 	text-transform: uppercase;
+	transition-duration: 0.4s;
 }
 .conForm .submitBnt:hover {
 	background:#e33592;
@@ -673,6 +671,7 @@ ul li {
 	margin: 0 10px;
 	display: inline-block;
 	float: none;
+	transition-duration: 0.3s;
 }
 .footer .footer-share a {
 	color: #fff;
@@ -681,4 +680,20 @@ ul li {
 	color: #e84545;
 	font-size: 11px;
 	margin: 0 2px;
+}
+
+.pinkText{
+	transition-duration: 0.4s;
+}
+
+.pinkText:hover{
+	color:#FF3EA5;	
+}
+
+.pink{
+	color: #FF3EA5;
+}
+
+.pinkDiv{
+	color: pink;
 }
