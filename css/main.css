@@ -172,7 +172,7 @@ ul li {
 }
 .navigation li {
 	display: inline-block;
-}
+}	
 .navigation a {
 	color: rgba(255, 255, 255, 0.8);
 	font-size: 12px;
@@ -182,7 +182,7 @@ ul li {
 	text-transform: uppercase;
 }
 .navigation a:hover, .navigation a.active {
-	color: #fff;
+	color: #FF3EA5;
 }
 .nav-toggle {
 	display: none;
@@ -324,7 +324,7 @@ ul li {
 	Banner
 -------------------------------------------------------------------------------*/
 .banner {
-	background-color: #3b3be8;
+	background-color: #5E17EB;
 	min-height: 750px;
 }
 .banner-text {
@@ -608,7 +608,7 @@ ul li {
 	border:#dedede 1px solid;
 }
 .conForm .submitBnt {
-	background:#a0ce4e;
+	background:#FF3EA5;
 	color: #fff;
 	padding: 15px 40px;
 	font-size: 13px;
@@ -622,7 +622,7 @@ ul li {
 	text-transform: uppercase;
 }
 .conForm .submitBnt:hover {
-	background:#3d3d3d;
+	background:#e33592;
 	color:#fff;
 }
 .error_message {

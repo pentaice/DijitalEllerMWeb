@@ -153,15 +153,15 @@ width:65%;
 .NWpng{
    max-width: 130%;
    position: relative;
-   bottom: -65px;
-   left: -215px;
+   bottom: -95px;
+   left: -280px;
 }
 
 @media (min-width: 600px) and (max-width: 1199px){
     .NWpng{
     max-width: 130%;
     position: relative;
-    bottom: -194px;
+    bottom: -218px;
     left: -195px;
     }
 }
@@ -171,7 +171,7 @@ width:65%;
     max-width: 130%;
     position: relative;
     bottom: -200px;
-    left: -195px;
+    left: -260px;
     }
 }
 
